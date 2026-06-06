@@ -1,11 +1,11 @@
 [package]
 name = "dawdel"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 license = "GPL-3.0"
-authors = ["Motivation Software Inc."]
+authors = ["Hydle Research Group"]
 description = "A music generation library for Rust"
-repository = "https://github.com/motivation-inc/dawdel"
+repository = "https://github.com/Hydle-Research-Group/dawdel"
 
 [dependencies]
 hound = "3.5.1"
